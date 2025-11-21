@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio Template - Two Panel Layout</title>
+  
+  <!-- Core CSS Files -->
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/panels.css">
+  <link rel="stylesheet" href="css/panel-dividers.css">
+  <link rel="stylesheet" href="css/collapsible.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Lexend:wght@100..900&display=swap" rel="stylesheet">
+</head>
+<body class="no-scroll">
+
+<div class="container">
+  <!-- LEFT PANEL -->
+  <div class="panel left-panel">
+    <h1>ENGINES</h1>
+    <div class="panel-content">
+
+      <!-- Section 1 -->
+      <div class="panel-divider dropdown-header" data-target="section-1">
+        <h2><span>Engine Projects</span><span class="dropdown-arrow">▼</span></h2>
+      </div>
+      <div class="dropdown-content" id="section-1">
+          <!-- Project 1 -->
+          <div class="project-item">
+              <div class="project-header collapsible button-like">
+                  <div class="button-content">
+                      <h2>Aito MiMiBe</h2>
+                      <h3>2025</h3>
+                  </div>
+              </div>
+              <div class="content">
+                  <p>An asteroids clone made in GameMaker.</p>
+                  <br>
+                  <p>The first Game I made in an engine.</p>
+                  <img src="images/aito.png" alt="Space Image">
+                  <div class="project-links">
+                      <a href="https://tobi-ayers.itch.io/aito-mimibe" target="_blank">View Project</a> |
+                      <a href="https://drive.google.com/file/d/1sw8JtNU9pzfpHQk2oW0om13JVdNz_TfP/view?usp=sharing" target="_blank">GameMaker Source</a>
+                  </div>
+              </div>
+          </div>
+          <!-- Project 2 -->
+          <div class="project-item">
+              <div class="project-header collapsible button-like">
+                  <div class="button-content">
+                      <h2>Space Game</h2>
+                      <h3>2025</h3>
+                  </div>
+              </div>
+              <div class="content">
+                  <p>This is a space game made in UE5 for an assignment.</p>
+                  <br>
+                  <p>It was built entirely using blueprints.</p>
+                  <img src="images/space.png" alt="Space Image">
+                  <div class="project-links">
+                      <a href="https://tobi-ayers.itch.io/space-game" target="_blank">View Project</a> |
+                      <a href="https://drive.google.com/file/d/1kCutWVEm_5QfPp3B165UDSIZ4Ea5S4O1/view?usp=sharing" target="_blank">UE Source</a>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- MIDDLE SECTION -->
+  <div class="middle">
+    <p>Left Panel Contains Engine Projects, Right Panel Contains SFML Projects.</p>
+  </div>
+  
+  <!-- RIGHT PANEL -->
+  <div class="panel right-panel">
+    <h1>SFML</h1>
+    <div class="panel-content">
+
+      <!-- Section 3 -->
+      <div class="panel-divider dropdown-header" data-target="section-3">
+        <h2><span>SFML Projects</span><span class="dropdown-arrow">▼</span></h2>
+      </div>
+      <div class="dropdown-content" id="section-3">
+
+          <!-- Item 1 -->
+          <div class="project-item">
+              <div class="project-header collapsible button-like">
+                  <img src="images/labrat.png" alt="Labrat Logo">
+                  <div class="button-content">
+                      <h2>Labrat</h2>
+                      <h3>2025</h3>
+                  </div>
+              </div>
+              <div class="content">
+                  <div class="flex-container">
+                      <div>
+                          <p>A basic platformer made entirely using sfml. Visual assets were created by me, and audio assets are sourced from freesound.org under CC0 licensing.</p>
+                          <br>
+                          <p>This is the first non text-based game that doesn't use an engine.</p>
+                          <br>
+                          <!-- Optional: Add links, images, or embedded content here -->
+                          <div class="project-links">
+                              <a href="https://tobi-ayers.itch.io/labrat" target="_blank">View Project</a> |
+                              <a href="https://github.com/LunkleLives/2DPlatformer" target="_blank">Github</a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <!-- Item 2 -->
+          <div class="project-item">
+              <div class="project-header collapsible button-like">
+                  <img src="images/paint.png" alt="Paint Logo">
+                  <div class="button-content">
+                      <h2>Paint Tool</h2>
+                      <h3>2025</h3>
+                  </div>
+              </div>
+              <div class="content">
+                  <div class="flex-container">
+                      <div>
+                          <p>A basic paint tool that supports a number of features similar to microsoft paint</p>
+                          <br>
+                          <p>This tool was made in order to familiarize myself with the sfml syntax.</p>
+                          <br>
+                          <!-- Optional: Add links, images, or embedded content here -->
+                          <div class="project-links">
+                              <a href="https://tobi-ayers.itch.io/paint-tool" target="_blank">View Project</a> |
+                              <a href="https://drive.google.com/file/d/1tD9JkwiDFt_RtyT8CbIGAzdNNeYCK5I0/view?usp=sharing" target="_blank">Source</a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>      
+    </div>
+  </div>
+</div>
+
+<!-- Configuration and Scripts -->
+<script src="script.js"></script>
+</body>
+</html>
+
