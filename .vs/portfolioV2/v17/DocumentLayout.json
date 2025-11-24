@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\000_CV\\Portfolio\\portfolioV2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\000_CV\\Portfolio\\portfolioV2\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\000_CV\\Portfolio\\portfolioV2\\css\\panel-dividers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\panel-dividers.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\000_CV\\Portfolio\\portfolioV2\\css\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\000_CV\\Portfolio\\portfolioV2\\css\\panels.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\panels.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\000_CV\\Portfolio\\portfolioV2\\css\\collapsible.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\collapsible.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\000_CV\\Portfolio\\portfolioV2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -27,12 +47,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\000_CV\\Portfolio\\portfolioV2\\script.js",
+              "RelativeDocumentMoniker": "script.js",
+              "ToolTip": "D:\\000_CV\\Portfolio\\portfolioV2\\script.js",
+              "RelativeToolTip": "script.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-24T01:06:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "base.css",
+              "DocumentMoniker": "D:\\000_CV\\Portfolio\\portfolioV2\\css\\base.css",
+              "RelativeDocumentMoniker": "css\\base.css",
+              "ToolTip": "D:\\000_CV\\Portfolio\\portfolioV2\\css\\base.css",
+              "RelativeToolTip": "css\\base.css",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-24T01:06:26.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "panels.css",
+              "DocumentMoniker": "D:\\000_CV\\Portfolio\\portfolioV2\\css\\panels.css",
+              "RelativeDocumentMoniker": "css\\panels.css",
+              "ToolTip": "D:\\000_CV\\Portfolio\\portfolioV2\\css\\panels.css",
+              "RelativeToolTip": "css\\panels.css",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-24T01:06:15.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "panel-dividers.css",
+              "DocumentMoniker": "D:\\000_CV\\Portfolio\\portfolioV2\\css\\panel-dividers.css",
+              "RelativeDocumentMoniker": "css\\panel-dividers.css",
+              "ToolTip": "D:\\000_CV\\Portfolio\\portfolioV2\\css\\panel-dividers.css",
+              "RelativeToolTip": "css\\panel-dividers.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-24T01:06:15.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "collapsible.css",
+              "DocumentMoniker": "D:\\000_CV\\Portfolio\\portfolioV2\\css\\collapsible.css",
+              "RelativeDocumentMoniker": "css\\collapsible.css",
+              "ToolTip": "D:\\000_CV\\Portfolio\\portfolioV2\\css\\collapsible.css",
+              "RelativeToolTip": "css\\collapsible.css",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-24T01:06:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "D:\\000_CV\\Portfolio\\portfolioV2\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "D:\\000_CV\\Portfolio\\portfolioV2\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAEYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-11-21T04:32:59.144Z",
               "EditorCaption": ""

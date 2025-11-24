@@ -25,8 +25,8 @@ function closeAll() {
   middle.classList.remove('shrink');
 
   // Reset panel headings to original text
-  rightHeading.textContent = "RIGHT PANEL"
-  leftHeading.textContent = "LEFT PANEL"
+  rightHeading.textContent = "SFML"
+  leftHeading.textContent = "Engines"
 }
 
 // Expand the left panel and shrink the middle
